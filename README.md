@@ -10,5 +10,6 @@ Requirements:
 
 Syntax:  %RELPDSE 'fully-qualified-pdse-dsname'
 
-Note there is not ISPF panel for this although there may be one in the
-future.
+ This tool was created after I found a web disussion at
+ https://ibmmainframes.com/about61886.html with sample code provided by
+ Pedro back in November 2013.
