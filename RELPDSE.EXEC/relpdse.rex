@@ -21,7 +21,7 @@
  |                             informative messages.          |
  |            2021/05/31 LBD - Creation from discussion       |
  |            https://ibmmainframes.com/about61886.html       |
- |            with sample code provided by Pedro              |
+ |            with sample code provided by Pedro Vera         |
  |                                                            |
  * ---------------------------------------------------------- */
 

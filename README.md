@@ -12,4 +12,4 @@ Syntax:  %RELPDSE 'fully-qualified-pdse-dsname'
 
  This tool was created after I found a web disussion at
  https://ibmmainframes.com/about61886.html with sample code provided by
- Pedro back in November 2013.
+ Pedro Vera back in November 2013.
