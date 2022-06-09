@@ -66,7 +66,7 @@
   /* ------------------------------------------------------------ *
    | Read in the SYSPRINT report and then free all allocated DD's |
    | used by this exec.                                           |
-/*    * ------------------------------------------------------------ */ */
+   * ------------------------------------------------------------ */
   'execio * diskr sysprint (finis stem sysp.'
   "FREE F("reldd" SYSIN SYSPRINT)"
 
