@@ -105,8 +105,7 @@
       left(r1,74) left(r2,74) r3
     Address ISPExec 'Setmsg msg(isrz001)'
   end
-  else do
-    ispf = 0
+  if ispf /= 1 then do
     say ' '
     say m1
     say m2
